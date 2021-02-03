@@ -1,0 +1,9 @@
+<mj-section background-color="#17A2B8">
+
+  <mj-column >
+    <mj-text font-size="25px" align="center" color="#f4f4f4">
+      Super Pueblito
+    </mj-text>
+  </mj-column>
+
+</mj-section>
